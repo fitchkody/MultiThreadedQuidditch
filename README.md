@@ -8,7 +8,7 @@ Quidditch Simulation using POSIX pthreads
 
 # Run
 
-`./quidditch
+`./quidditch`
 
 # Note
 
