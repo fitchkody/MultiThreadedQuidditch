@@ -1,6 +1,6 @@
 # MultiThreadedQuidditch
 
-Quidditch Simulation using POSIX pthreads
+Quidditch Simulation using POSIX pthreads. This simulation is non-deterministic, so each time it's run you will see a different game.
 
 # Compile
 
